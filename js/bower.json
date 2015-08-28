@@ -1,7 +1,0 @@
-{
-  "name": "JuniorStudy",
-  "dependencies": {
-    "react": "~0.12.2",
-    "jquery": "~2.1.3"
-  }
-}
